@@ -1,0 +1,13 @@
+[Map]
+image=comp345.bmp
+wrap=no
+scroll=none
+author=Eric
+warn=yes
+
+[Continents]
+Continent1=3
+Continent2=3
+Continent3=2
+
+
